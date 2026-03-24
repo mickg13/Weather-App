@@ -6,6 +6,10 @@ h1{
   text-align: center;
   background-color: #61dafb;
 }
+button{
+  display: flex;
+ 
+}
 
 .App-logo {
   height: 40vmin;
